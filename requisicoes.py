@@ -16,7 +16,7 @@ from bs4 import BeautifulSoup as bs
 if __name__ != "__main__":
 
 
-    # Função get, que faz uma requisição do tipo get tem como parâmetro a url eauth=("usuário","senha") é opcional. 
+    # Função get, que faz uma requisição do tipo get tem como parâmetro a url e auth=("usuário","senha") é opcional. 
     # Para se alterar o tipo de requisição(POST, DELETE,...) basta trocar o get pela palavra em minúsuclo. 
     # Um parâmetro opcional e importante é timeout=x, que interromperá a conexão após x segundos
 
