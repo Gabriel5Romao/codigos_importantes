@@ -31,6 +31,10 @@ Dict Comprehensions:
   
 ""'
 
+"""
+Tuple comprehensions é generators, tem a mesma sintaxe de List comprehension
+"""
+
 
 
 
