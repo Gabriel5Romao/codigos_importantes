@@ -29,7 +29,7 @@ Dict Comprehensions:
   Sintaxe:
     { chave:valor for chave,valor in interable }
   
-""'
+"""
 
 """
 Tuple comprehensions é generators, tem a mesma sintaxe de List comprehension
