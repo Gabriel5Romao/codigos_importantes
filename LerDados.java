@@ -22,7 +22,7 @@ public class LerDados{
         
         // Recebendo Double ou float
         System.out.println(" Para receber um double ou float, você utiliza o nextDouble() ou nextFloat():");
-        real = Float.parseFloat(teclado.nextFloat());
+        real = Float.parseFloat(teclado.nextLine());
         System.out.println(" Você digitou: "+real);
         
         teclado.close();
