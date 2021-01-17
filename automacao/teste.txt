@@ -1,0 +1,2 @@
+O modo w na escrita de arquivos, cria e abre para escrita. Deletando o arquivo se já tiver algo escrito
+O modo a, soma algum texto no final do arquivo
