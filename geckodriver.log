@@ -1,0 +1,50 @@
+1611000556598	geckodriver	INFO	Listening on 127.0.0.1:65291
+1611000559600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileNqV48T"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611000562401	Marionette	INFO	Listening on port 65301
+1611000562785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611000562797	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611000566994	Marionette	INFO	Stopped listening on port 65301
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611005938047	geckodriver	INFO	Listening on 127.0.0.1:49884
+1611005941115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileHh1Yda"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611005943604	Marionette	INFO	Listening on port 49892
+1611005943789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611005943799	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611006098451	Marionette	INFO	Stopped listening on port 49892
+[Parent 5584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611025156265	geckodriver	INFO	Listening on 127.0.0.1:52688
+1611025159299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileSyvJa6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611025162180	Marionette	INFO	Listening on port 52696
+1611025162489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611025162500	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611025192926	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1611025227276	Marionette	ERROR	[40] No reply from Marionette:Register
+1611025230374	Marionette	ERROR	[42] No reply from Marionette:Register
+1611025239717	Marionette	ERROR	[44] No reply from Marionette:Register
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/domwalker25, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:168:37\ndestroy@resource://devtools/shared/protocol/Pool.js:167:14\nbaseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:103:13\ndestroy@resource://devtools/shared/protocol/Front.js:67:10\ndestroy@resource://devtools/client/fronts/inspector.js:91:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:603:17\n", "resource://devtools/shared/protocol/Front.js", 99))
+[Parent 14788, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611025615357	Marionette	INFO	Stopped listening on port 52696
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611025754052	geckodriver	INFO	Listening on 127.0.0.1:52898
+1611025757097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gabri\\AppData\\Local\\Temp\\rust_mozprofileP9M9UP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611025759745	Marionette	INFO	Listening on port 52906
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611025760265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611025760274	Marionette	ERROR	[17] No reply from Marionette:Register
+1611025778605	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
